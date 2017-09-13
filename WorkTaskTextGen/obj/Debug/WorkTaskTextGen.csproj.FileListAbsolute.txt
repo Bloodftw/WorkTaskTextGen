@@ -1,0 +1,6 @@
+c:\users\hell\documents\visual studio 2015\Projects\WorkTaskTextGen\WorkTaskTextGen\bin\Debug\WorkTaskTextGen.exe.config
+c:\users\hell\documents\visual studio 2015\Projects\WorkTaskTextGen\WorkTaskTextGen\bin\Debug\WorkTaskTextGen.exe
+c:\users\hell\documents\visual studio 2015\Projects\WorkTaskTextGen\WorkTaskTextGen\bin\Debug\WorkTaskTextGen.pdb
+c:\users\hell\documents\visual studio 2015\Projects\WorkTaskTextGen\WorkTaskTextGen\obj\Debug\WorkTaskTextGen.csprojResolveAssemblyReference.cache
+c:\users\hell\documents\visual studio 2015\Projects\WorkTaskTextGen\WorkTaskTextGen\obj\Debug\WorkTaskTextGen.exe
+c:\users\hell\documents\visual studio 2015\Projects\WorkTaskTextGen\WorkTaskTextGen\obj\Debug\WorkTaskTextGen.pdb
